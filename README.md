@@ -12,12 +12,12 @@ Este proyecto es una aplicación web de gestión de tareas desarrollada con PHP,
 
 1. Clona este repositorio en tu máquina local:
    ```
-   git clone 
+   git clone https://github.com/jestiven56/gestionTareas.git
    ```
 
 2. Navega al directorio del proyecto:
    ```
-   cd sistema-gestion-tareas
+   cd gestionTareas
    ```
 
 3. Configura tu base de datos MySQL:
@@ -46,7 +46,7 @@ Este proyecto es una aplicación web de gestión de tareas desarrollada con PHP,
 
 ## Uso
 
-1. Abre tu navegador y visita la URL de tu proyecto (por ejemplo, `http://localhost/sistema-gestion-tareas`)
+1. Abre tu navegador y visita la URL de tu proyecto (por ejemplo, `http://localhost/gestionTareas`)
 2. Inicia sesión con las credenciales del usuario de prueba:
    - Email: user1@test.com
    - Contraseña: 12345678
@@ -57,4 +57,4 @@ Este proyecto es una aplicación web de gestión de tareas desarrollada con PHP,
    - Marcar tareas como completadas
    - Ver detalles de cada tarea
 
-Tu Nombre - [jestiven56@gmail.com](mailto:jestiven56@gmail.com)
+[jestiven56@gmail.com](mailto:jestiven56@gmail.com)
